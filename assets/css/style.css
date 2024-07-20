@@ -1,0 +1,115 @@
+body {
+    font-family: 'Cabin', sans-serif;
+
+}
+.bg-gris{
+    background-color:#373A3C;
+}
+.a-btexto{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200%;
+}
+/* .menu-texto{ 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100%
+}*/
+.btn{
+    border: 2px solid #DDDDDD; /* Color del borde */
+    
+}
+
+
+
+h1{
+    text-align: left;
+    margin-top: 5%;
+    font-family: "Cabin" , sans-serif; 
+    font-size: 200%;
+    font-weight: 700;
+}
+
+h2{
+    text-align: left;
+    margin-top: 10%;
+    font-family: "Cabin" , sans-serif; 
+    font-weight: 700;
+    font-size: 100%;
+    text-justify: auto;
+}
+
+.h2-f{
+    text-align: left;
+    
+    font-family: "Cabin" , sans-serif; 
+    font-weight: 300;
+    font-size: 160%;
+    text-justify: auto;
+}
+
+h5{
+    text-align: left;
+    font-family: "Cabin" , sans-serif; 
+    font-size: 150%;
+    font-weight: 700;
+    
+}
+.underline {
+    display: inline-block;
+    position: relative;
+  }
+
+.underline:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+  }
+
+  
+h6{
+    text-align: left;
+    font-family: "Cabin" , sans-serif; 
+    font-size: 100%;
+    font-weight: 700;
+    
+}
+h3{
+    
+    font-family: "Cabin" , sans-serif; 
+    font-size: 250%;
+    font-weight: 700;
+}
+
+
+
+.pf{
+    background-color: #DC3545;
+    color: #FFFFFF;
+}
+
+.rc{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150%;
+}
+.bf{
+    background-color: #373A3C;
+    font-family: "Lobster", sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 250%;
+}
+
+.boton{
+    border: 2px solid #DDDDDD; /* Color del borde */
+    color: #ffffff; 
+}
